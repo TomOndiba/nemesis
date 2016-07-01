@@ -10,4 +10,4 @@ cd nemesis
 ## Information
 It was made to run through only Apache and Linux Server.
 The Password .txt file will be located in 
-/var/www/
+/tmp/users.txt
